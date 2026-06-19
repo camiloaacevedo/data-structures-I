@@ -1,6 +1,6 @@
 The goal is to store the minimum, maximum, and ideal temperatures for each day, starting from day 1 (the program should end on day 0). Write a program that provides the following information:
 
-(using objects)
+(using OOP)
 
 a. The average temperature for each day
 
