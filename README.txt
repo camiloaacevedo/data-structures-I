@@ -1,9 +1,9 @@
-Queremos guardar la temperatura mínima, máxima e ideal de los días a partir del
- 1 (terminar el programa cuando sea el día 0). Realiza un programa que de la
- siguiente información:
- (utilizar objetos)
- a. La temperatura media de cada día
- b. Los días con menos temperatura
- c. Se lee una temperatura por teclado y se muestran los días cuya
- temperatura máxima coincide con ella. si no existe ningún día se muestra
- un mensaje de información
+The goal is to store the minimum, maximum, and ideal temperatures for each day, starting from day 1 (the program should end on day 0). Write a program that provides the following information:
+
+(using objects)
+
+a. The average temperature for each day
+
+b. The days with the lowest temperatures
+
+c. A temperature is entered via the keyboard, and the days whose maximum temperature matches that temperature are displayed. If no day matches that temperature, an informational message is displayed.
